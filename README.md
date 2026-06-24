@@ -28,7 +28,6 @@
 <br>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a2e/ffffff?text=T16+Gameplay+Screenshot" alt="Gameplay Screenshot" width="80%" style="border-radius: 20px; box-shadow: 0 20px 30px -10px rgba(0,0,0,0.7);">
   <!-- اینجا لینک یه اسکرین‌شات واقعی از بازی رو بذار -->
 </div>
 
