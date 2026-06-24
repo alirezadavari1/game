@@ -99,5 +99,4 @@
     <a href="https://linkedin.com/in/alirezadavari">لینکدین</a>
   </p>
   <br>
-  <img src="https://img.shields.io/badge/⭐-اگر_خوشت_آمد_ستاره_فراموش_نکن!-brightgreen?style=social" alt="Star">
 </div>
