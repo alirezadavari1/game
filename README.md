@@ -1,3 +1,103 @@
 # my game
 
 ![image](https://github.com/user-attachments/assets/157e505f-f195-40ba-a625-e124e813d9e3)
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-2022.3+-000000?logo=unity&style=for-the-badge" alt="Unity Version">
+  <img src="https://img.shields.io/badge/C%23-100%25-239120?logo=c-sharp&style=for-the-badge" alt="C#">
+  <img src="https://img.shields.io/github/stars/alirezadavari1/game?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/alirezadavari1/game?style=for-the-badge&color=blue" alt="GitHub Forks">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge" alt="Made with Love">
+</div>
+
+<br>
+
+<div align="center">
+  <h1>🎮 T16</h1>
+  <p><strong>(نام موقت بازی - می‌تونی اسم دلخواهت رو بذاری)</strong></p>
+  <p>یک بازی هیجان‌انگیز و جذاب ساخته شده با <strong>یونیتی</strong> و زبان #C</p>
+  <br>
+  <a href="#-دانلود-بازی">دانلود بازی</a>
+  ·
+  <a href="#-اسکرین‌شات">اسکرین‌شات</a>
+  ·
+  <a href="#-نحوه-نصب">نحوه نصب</a>
+  ·
+  <a href="#-مشارکت">مشارکت</a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x400/1a1a2e/ffffff?text=T16+Gameplay+Screenshot" alt="Gameplay Screenshot" width="80%" style="border-radius: 20px; box-shadow: 0 20px 30px -10px rgba(0,0,0,0.7);">
+  <!-- اینجا لینک یه اسکرین‌شات واقعی از بازی رو بذار -->
+</div>
+
+<br>
+
+## 🚀 درباره بازی
+
+**T16** یک بازی [ژانر بازی مثل اکشن، ماجراجویی یا پازل] است که در آن شما [توضیح کوتاه از گیم‌پلی]. هدف اصلی در این بازی، [هدف اصلی بازی] است. این بازی با استفاده از موتور بازی‌سازی **یونیتی** طراحی و پیاده‌سازی شده و از گرافیک [سبک گرافیک مثل 2D، پیکسل آرت یا سه‌بعدی] برای خلق تجربه‌ای لذت‌بخش استفاده می‌کند.
+
+### ✨ ویژگی‌های کلیدی
+
+*   ⚡ **گیم‌پلی پویا و سریع**: مکانیک‌های روان و چالش‌برانگیز که شما را درگیر خود می‌کند.
+*   🎨 **طراحی بصری جذاب**: محیط‌های زیبا و کاراکترهای با شخصیت.
+*   🎵 **جلوه‌های صوتی**: موسیقی و افکت‌های متناسب با فضای بازی.
+*   📱 **قابل اجرا روی [ویندوز/اندروید/وب]**: بازی را روی پلتفرم مورد علاقه‌تان تجربه کنید.
+
+## 🖼️ اسکرین‌شات
+
+<div align="center">
+  <img src="https://via.placeholder.com/400x250/16213e/ffffff?text=Screenshot+1" alt="Screenshot 1" width="45%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://via.placeholder.com/400x250/0f3460/ffffff?text=Screenshot+2" alt="Screenshot 2" width="45%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://via.placeholder.com/400x250/533483/ffffff?text=Screenshot+3" alt="Screenshot 3" width="45%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://via.placeholder.com/400x250/3b185c/ffffff?text=Screenshot+4" alt="Screenshot 4" width="45%" style="border-radius: 10px; margin: 5px;">
+</div>
+
+## 🛠️ نحوه نصب و اجرا
+
+برای اجرا و تست بازی روی سیستم خودت، مراحل زیر را دنبال کن:
+
+**پیش‌نیازها:**
+*   سیستم‌عامل: ویندوز 10 یا بالاتر / اندروید 8 یا بالاتر
+*   حداقل 100 مگابایت فضای خالی
+
+**مراحل:**
+1.  آخرین نسخه بازی را از بخش **Releases** (که باید ایجاد کنی) یا از لینک زیر دانلود کن:
+    *   [📥 دانلود نسخه ویندوز](#)
+    *   [📥 دانلود نسخه اندروید](#)
+2.  فایل دانلودی را از حالت فشرده خارج کن (در صورت نیاز).
+3.  فایل اجرایی (`.exe` برای ویندوز یا `.apk` برای اندروید) را باز کن و از بازی لذت ببر!
+
+> **برای توسعه‌دهندگان:** اگر می‌خواهی پروژه را در یونیتی باز کنی، مراحل زیر را دنبال کن:
+> 1.  ریپازیتوری را کلون کن: `git clone https://github.com/alirezadavari1/game.git`
+> 2.  پروژه را با **Unity Hub** و نسخه `2022.3+` باز کن.
+> 3.  بعد از لود شدن، صحنه اصلی را از پنجره `Project` باز کن.
+
+## 👨‍💻 مشارکت در توسعه
+
+از مشارکت شما بسیار استقبال می‌کنم! اگر ایده‌ای داری، باگ یا مشکلی پیدا کردی، خوشحال می‌شوم که به بهتر شدن بازی کمک کنی.
+
+1.  این ریپازیتوری را **فورک** کن.
+2.  یک **برنچ جدید** برای تغییراتت ایجاد کن (`git checkout -b feature/AmazingFeature`).
+3.  تغییراتت را **کامیت** کن (`git commit -m 'Add some AmazingFeature'`).
+4.  برنچ را **پوش** کن (`git push origin feature/AmazingFeature`).
+5.  یک **Pull Request** باز کن.
+
+برای گزارش باگ یا پیشنهاد ویژگی جدید، از بخش **Issues** استفاده کن.
+
+## 📜 مجوز
+
+این پروژه تحت مجوز **MIT License** منتشر شده است. برای اطلاعات بیشتر، فایل `LICENSE` را ببین.
+
+---
+
+<div align="center">
+  <h3>ساخته شده با ❤️ توسط علیرضا داوری</h3>
+  <p>
+    <a href="https://github.com/alirezadavari1">گیت‌هاب</a> ·
+    <a href="https://linkedin.com/in/alirezadavari">لینکدین</a>
+  </p>
+  <br>
+  <img src="https://img.shields.io/badge/⭐-اگر_خوشت_آمد_ستاره_فراموش_نکن!-brightgreen?style=social" alt="Star">
+</div>
