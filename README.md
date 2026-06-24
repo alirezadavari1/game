@@ -46,12 +46,7 @@
 
 ## 🖼️ اسکرین‌شات
 
-<div align="center">
-  <img src="https://via.placeholder.com/400x250/16213e/ffffff?text=Screenshot+1" alt="Screenshot 1" width="45%" style="border-radius: 10px; margin: 5px;">
-  <img src="https://via.placeholder.com/400x250/0f3460/ffffff?text=Screenshot+2" alt="Screenshot 2" width="45%" style="border-radius: 10px; margin: 5px;">
-  <img src="https://via.placeholder.com/400x250/533483/ffffff?text=Screenshot+3" alt="Screenshot 3" width="45%" style="border-radius: 10px; margin: 5px;">
-  <img src="https://via.placeholder.com/400x250/3b185c/ffffff?text=Screenshot+4" alt="Screenshot 4" width="45%" style="border-radius: 10px; margin: 5px;">
-</div>
+
 
 ## 🛠️ نحوه نصب و اجرا
 
